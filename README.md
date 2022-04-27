@@ -1,5 +1,5 @@
 # Hello World
 
 ```sh
-make everyone  happy
+make everyone happy
 ```
